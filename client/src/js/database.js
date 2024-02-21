@@ -36,7 +36,7 @@ export const getDb = async () => {
     const request = store.getAll();
 
     let response = await request;
-    response = response.map(entry => entry.value);
+    response = await response.map(entry => entry.value)
 
     console.info('Getting all data from the database');
     return response[0];

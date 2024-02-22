@@ -24,7 +24,7 @@ Progressive Web Application (PWA) that offers a simple yet powerful text editing
 
 ## Deployment
 
-[Link to web app](https://another-text-6df59f26a1f0.herokuapp.com/)
+[Link to web app](https://texterra-pwa-1.onrender.com/)
 
 ## Installation
 
